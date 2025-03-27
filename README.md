@@ -1,6 +1,1 @@
-# hello world
- Primero repositório
-
- **Testando a criação de repositório**
-
- linha adicionada no site do github
+Fazendo ou tentando fazer uma implementação do modelo de Gauss-seidel.
