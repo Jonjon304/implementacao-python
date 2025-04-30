@@ -29,7 +29,7 @@ def bissecao(func, a, b, tol, max_iter):
     print(f"\nO método não convergiu dentro de {max_iter} iterações.")
     return None, max_iter
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     # Permitir ao usuário inserir a função (uma forma simples usando eval, tenha cuidado com entradas maliciosas)
     funcao_str = input("Digite a função f(x) (use 'math.' para funções matemáticas): ")
     try:
